@@ -15,7 +15,7 @@ Numero 4
 ## Integrantes
 
 * Ledesma Taragano Gabriel Damián
-* dos
+* Brunella Bianca Passera
 * tres
 * cuatro
 * cinco
